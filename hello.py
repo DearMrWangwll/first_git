@@ -4,3 +4,7 @@ def hello():
 
 def hello_wll():
     print("hello wll")
+
+
+def hello_wmz():
+    print("hello wmz")
